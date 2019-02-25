@@ -1,4 +1,4 @@
-# buckaroo-nholmann-json
+# buckaroo-nholmann-json-example
 
 ```
 buckaroo install
